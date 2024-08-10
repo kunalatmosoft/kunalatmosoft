@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalatmosoft&show_icons=true&locale=en" alt="kunalatmosoft" /></p>
 
-![Kunalatmosoft GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunal777&theme=dark&hide_border=true&background=FFFFFF)
+![Kunalatmosoft GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal777&theme=dark&hide_border=true&background=FFFFFF)
 
 
 
