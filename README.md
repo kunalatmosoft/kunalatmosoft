@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg" alt="Animated space-themed banner" width="600" height="300" />
+  <img src="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg" alt="Animated space-themed banner" width="600" height="200" />
 </div>
 
 <h1 align="center">Welcome to Kunal Singh's Code Universe 🚀</h1>
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<details>
   <summary>🛰️ View Full Tech Stack</summary>
   <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
@@ -71,7 +70,6 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   </p>
-</details>
 
 ### 🌟 GitHub Constellation
 
@@ -92,18 +90,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kunalatmosoft&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Kunal's GitHub Trophies" />
 </p>
-
-### 🚀 Journey Through the Code Cosmos
-
-```mermaid
-graph TD;
-    A["🌱 Novice Explorer"] --> B["💻 Skilled Navigator"]
-    B --> C["🚀 Atmosoft Co-pilot"]
-    C --> D["🌟 Visionary Captain"]
-    style A fill:#ff9900,stroke:#333,stroke-width:4px
-    style B fill:#3399ff,stroke:#333,stroke-width:4px
-    style C fill:#33cc33,stroke:#333,stroke-width:4px
-    style D fill:#9900cc,stroke:#333,stroke-width:4px
 
 
 
