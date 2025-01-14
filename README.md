@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg?height=300&width=600" alt="Animated space-themed banner" width="600" height="300" />
+  <img src="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg" alt="Animated space-themed banner" width="600" height="300" />
 </div>
 
 <h1 align="center">Welcome to Kunal Singh's Code Universe 🚀</h1>
