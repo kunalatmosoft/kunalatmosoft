@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg" alt="Animated space-themed banner" width="600" height="200" />
-</div>
-
 <h1 align="center">Welcome to Kunal Singh's Code Universe 🚀</h1>
 
 <p align="center">
   <a href="https://github.com/kunalatmosoft"><img src="https://img.shields.io/github/stars/kunalatmosoft?style=for-the-badge&logo=github&color=4d002e" alt="GitHub stars" /></a>
   <a href="https://github.com/kunalatmosoft?tab=followers"><img src="https://img.shields.io/github/followers/kunalatmosoft?style=for-the-badge&logo=github&color=4d002e" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/badge/Profile%20Views-1337-4d002e?style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kunalatmosoft&label=Profile%20views&color=0e75b6&style=flat" alt="kunalatmosoft" />
 </p>
 
 <h3 align="center">Passionate Developer & Co-founder of Atmosoft&trade; 🌠</h3>
@@ -39,6 +35,11 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/kunal-singh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalatmosoft" height="30" width="40" /></a>
+<a href="/https://kunalatmosoft/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kunalatmosoft/rss.xml" height="30" width="40" /></a>
 </p>
 
   <summary>🛰️ View Full Tech Stack</summary>
