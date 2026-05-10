@@ -1,96 +1,227 @@
-<h1 align="center">Welcome to Kunal Singh's Code Universe 🚀</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/kunalatmosoft"><img src="https://img.shields.io/github/stars/kunalatmosoft?style=for-the-badge&logo=github&color=4d002e" alt="GitHub stars" /></a>
-  <a href="https://github.com/kunalatmosoft?tab=followers"><img src="https://img.shields.io/github/followers/kunalatmosoft?style=for-the-badge&logo=github&color=4d002e" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=kunalatmosoft&label=Profile%20views&color=0e75b6&style=flat" alt="kunalatmosoft" />
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Kunal%20Singh&fontSize=80&fontColor=fff&stroke=6e40c9&strokeWidth=2&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20Web3%20%7C%20AI%2FML%20%7C%20C%2B%2B&descSize=22&descAlignY=75&descColor=a78bfa" width="100%"/>
 
-<h3 align="center">Passionate Developer & Co-founder of Atmosoft&trade; 🌠</h3>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Co-founder+of+Atmosoft%E2%84%A2+%F0%9F%8C%A0;Full-Stack+Web+Developer+%F0%9F%9A%80;C%2B%2B+Problem+Solver+%F0%9F%A7%A9;Web3+Builder+%E2%9B%93;AI+%2F+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <em>"Exploring the infinite possibilities of code, one commit at a time."</em>
-</p>
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=kunalatmosoft&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/kunalatmosoft?tab=followers">
+  <img src="https://img.shields.io/github/followers/kunalatmosoft?style=for-the-badge&logo=github&color=6e40c9&labelColor=0d1117" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://kunals.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-kunals.netlify.app-6e40c9?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
-### 🚀 About Me
+<!-- ABOUT ME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-- 👨‍💻 Co-founder of Atmosoft&trade;
-- 🛰️ Full-stack developer with a passion for innovation
-- 🌱 Currently mastering advanced web development techniques
-- 💡 Always eager to collaborate on groundbreaking open-source projects
-- 🎯 Goal: To leave a lasting impact on the tech universe
+<table>
+<tr>
+<td width="60%">
 
-### 🛠️ Tech Arsenal
+## ⚡ About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/kunal-singh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalatmosoft" height="30" width="40" /></a>
-<a href="/https://kunalatmosoft/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kunalatmosoft/rss.xml" height="30" width="40" /></a>
-</p>
+```typescript
+const kunal: Developer = {
+  name:       "Kunal Singh",
+  handle:     "@kunalatmosoft",
+  location:   "India 🇮🇳",
+  company:    "Atmosoft™ — Co-founder",
+  focus: [
+    "Full-Stack Web Development",
+    "C++ Competitive Problem Solving",
+    "Web3 / Blockchain dApps",
+    "AI · ML · LLM Engineering",
+  ],
+  currentlyLearning: [
+    "Advanced Next.js Patterns",
+    "Solidity & Smart Contracts",
+    "Multi-Agent AI Systems",
+  ],
+  motto: "Like never before ⚡",
+  openTo:  "Collaborations & Open Source",
+};
+```
 
-  <summary>🛰️ View Full Tech Stack</summary>
-  <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-    <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
-    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  </p>
+</td>
+<td width="40%" align="center">
 
-### 🌟 GitHub Constellation
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalatmosoft&show_icons=true&theme=radical" alt="Kunal's GitHub stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalatmosoft&theme=radical" alt="Kunal's GitHub streak" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-singh121)
+[![Twitter/X](https://img.shields.io/badge/X-@KunalSi2346588-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KunalSi2346588)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-kunals.netlify.app-6e40c9?style=flat-square)](https://kunals.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-kunalatmosoft-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kunalatmosoft)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalatmosoft&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</td>
+</tr>
+</table>
 
-### 🏆 Achievements
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalatmosoft&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Kunal's GitHub Trophies" />
-</p>
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,java,solidity&theme=dark&perline=7" alt="Languages"/>
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,framer&theme=dark&perline=8" alt="Frontend"/>
+
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,fastapi&theme=dark&perline=8" alt="Backend"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark&perline=8" alt="Databases"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux&theme=dark&perline=8" alt="Cloud & DevOps"/>
+
+### 🎨 Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman,android&theme=dark&perline=8" alt="Tools"/>
+
+</div>
+
+---
+
+## 🚀 Domain Expertise
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐 Web Dev
+```
+React · Next.js
+Node.js · Express
+GraphQL · REST APIs
+Tailwind · Framer
+MongoDB · PostgreSQL
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🧩 C++ & DSA
+```
+Competitive Programming
+Data Structures
+Algorithms & Patterns
+OOP & System Design
+STL · Templates
+```
+
+</td>
+<td align="center" width="25%">
+
+### ⛓️ Web3
+```
+Blockchain Concepts
+Smart Contracts
+Solidity Basics
+dApp Architecture
+Decentralized Apps
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI / ML
+```
+Python · TensorFlow
+Multi-Agent LLMs
+Swarm Frameworks
+Ollama · DeepSeek
+Local LLM Pipelines
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Constellation
+
+<div align="center">
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalatmosoft&theme=tokyonight&border=6e40c9&background=0d1117&stroke=6e40c9&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=fff&sideNums=fff&dates=6e7681" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kunalatmosoft&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalatmosoft&bg_color=0d1117&color=a78bfa&line=6e40c9&point=f97316&area=true&area_color=6e40c9&hide_border=true&custom_title=Kunal's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+
+</div>
 
 
+---
 
+## 🤝 Let's Connect & Build Together
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kunal-singh121">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/KunalSi2346588">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
+</a>
+&nbsp;
+<a href="https://kunals.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:kunal@atmosoft.dev">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+> *"Exploring the infinite possibilities of code, one commit at a time."* ✨
+> 
+> **Open to:** collaborations, open-source contributions, Web3 projects & AI/ML experiments.
+
+</div>
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
